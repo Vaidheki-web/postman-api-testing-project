@@ -51,6 +51,24 @@ It covers:
 
 Bearer Token Authentication using Postman Collection level configuration.
 
+
+## Collection Structure
+
+![Collection](Screenshots/Collections.png)
+
+## Environment Configuration
+
+![Environment](Screenshots/DEV_Environment.png)
+
+## Authentication
+
+![Authentication](Screenshots/Authorization.png)
+
+## Test Results
+
+![Test Results](screenshots/TestResults.png)
+
+
 ## Author
 
 Vaidheki SV
