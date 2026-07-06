@@ -1,0 +1,28 @@
+{
+	"id": "91b765a1-1b4f-407c-a110-46d5e1075d1a",
+	"name": "Dev",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "customerId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-07-06T16:31:56.411Z",
+	"_postman_exported_using": "Postman/12.18.0"
+}
